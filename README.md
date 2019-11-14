@@ -1,1 +1,1 @@
-# repo
+redis功能包，配置好后可以直接使用redis缓存，redis分布式锁等功能。
